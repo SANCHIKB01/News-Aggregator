@@ -87,6 +87,7 @@ The Personalized News Aggregator fetches news articles from the News API and pro
     - Open your web browser and go to `http://127.0.0.1:5000` to access the application.
 
 ## Project Structure
+```
 personalized-news-aggregator/
 ├── app.py # Main Flask application
 ├── fetch_news.py # Script to fetch news from News API
@@ -99,7 +100,7 @@ personalized-news-aggregator/
 ├── news_data.json # Fetched news data
 ├── processed_news.csv # Processed news data
 └── config.py # Configuration file for API keys
-
+```
 
 ## Contributing
 
